@@ -4,10 +4,4 @@ This is the first repo.
 
 ##Ipsum Below
 
-srgaergeeeeea bewawbt
- wetaw4t43w t34
-  wt34t 34 
-
-
-  asfwefewe
-  efwefewf4
+index.html
